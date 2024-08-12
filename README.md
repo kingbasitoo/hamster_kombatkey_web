@@ -19,11 +19,12 @@ Hamster Kombat Universal Key Generator is a web application designed to generate
 
 To use the Hamster Kombat key generator:
 
-1. Visit the [Hamster Kombat Universal Key Generator](https://kovirum.github.io/hamster_kombat_bike_keygen_web/) website.
-2. Select the number of keys you wish to generate.
-3. Choose the game within "Hamster Kombat" for which you need the keys.
-4. Click on the `Generate Keys` button to start the process.
-5. Once the keys are generated, they will appear on the page, and you can copy them individually or all at once.
+1. Visit the [Hamster Kombat Universal Key Generator]
+2. (https://github.com/kingbasitoo/hamster_kombatkey_web) website.
+3. Select the number of keys you wish to generate.
+4. Choose the game within "Hamster Kombat" for which you need the keys.
+5. Click on the `Generate Keys` button to start the process.
+6. Once the keys are generated, they will appear on the page, and you can copy them individually or all at once.
 
 ## Supported Languages
 
@@ -51,7 +52,7 @@ If you want to run this website locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kovirum/hamster_kombat_bike_keygen_web.git
+   git clone https://github.com/kingbasitoo/hamster_kombatkey_web.git)
 2. Navigate to the project directory:
    ```bash
    cd hamster_kombat_bike_keygen_web
@@ -75,8 +76,7 @@ If you would like to contribute to this project:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file 
 ## Contact
 
-For any questions or issues, please open an issue on the [GitHub repository](https://github.com/kovirum/hamster_kombat_bike_keygen_web/issues) or contact us via [email](mailto:kovirum@mail.ru).
+For any questions or issues, contact me
